@@ -1,0 +1,3 @@
+/Users/nigger/CLionProjects/CG_lab1_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/nigger/CLionProjects/CG_lab1_1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/nigger/CLionProjects/CG_lab1_1/cmake-build-debug/CMakeFiles/CG_lab1_1.dir
